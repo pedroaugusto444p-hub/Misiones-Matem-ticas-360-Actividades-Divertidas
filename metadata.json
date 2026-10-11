@@ -1,0 +1,6 @@
+{
+  "name": "Matemáticas en el Mundo de Bloques",
+  "description": "¡Más de 360 actividades de matemáticas para que tu hijo aprenda de 1.º a 5.º de primaria sin peleas ni clases agotadoras!",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
